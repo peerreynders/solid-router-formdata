@@ -1,6 +1,6 @@
 # solid-router-formdata
 
-Example repo for `@solidjs/router` defect: *FormData does not include submit button value and name*
+Example repo for `@solidjs/router` defect: [*FormData does not include submit button value and name*](https://github.com/solidjs/solid-router/issues/351)
 
 Defect location: In the vicinity of https://github.com/solidjs/solid-router/blob/9755b8d478c3c7270885da12528818ef43c52485/src/data/events.ts#L114 
 
